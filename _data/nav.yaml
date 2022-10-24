@@ -3,14 +3,40 @@
   icon: assets/img/icons/cybersecurity.svg #Menu item icon.
   hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
   subnav: #Subnav. See note [2].
-      - title: C++ #Submenu item title.
-        url: category/cpp.html #Submenu item url.
+      - title: LLVM #Submenu item title.
+        url: category/LLVM.html #Submenu item url.
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
-        subnav: #Another subnav
-            - title: Libraries
-              url: libs.html
-              hue: "var(--c-themeHueBlue)"
-- title: Design
-  url: category/design.html
+      - title: overthewire #Submenu item title.
+        url: category/overthewire.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+      - title: pwnable #Submenu item title.
+        url: category/pwnable.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+      - title: root-me #Submenu item title.
+        url: category/root-me.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+      - title: thesis #Submenu item title.
+        url: category/thesis.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+      - title: intern #Submenu item title.
+        url: category/intern.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+      - title: study #Submenu item title.
+        url: category/study.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+- title: algorithm
+  url: category/algorithm.html
+  icon: assets/img/icons/design.svg
+  hue: "var(--c-themeHueRed)"
+  subnav: #Subnav. See note [2].
+      - title: baekjoon #Submenu item title.
+        url: category/baekjoon.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
+- title: linux
+  url: category/linux.html
+  icon: assets/img/icons/design.svg
+  hue: "var(--c-themeHueRed)"
+- title: activity
+  url: category/activity.html
   icon: assets/img/icons/design.svg
   hue: "var(--c-themeHueRed)"
