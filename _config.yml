@@ -1,9 +1,10 @@
 title: 잡다한 블로그
-logo_img: /assets/img/icons/golasblog_logo.svg
+logo_img: /assets/img/icons/blog.svg
 favicon: /assets/favicon.ico
-description: 공부용
+description: 공부 정리용
 global_tags: jekyll theme simplex golasblog responsive html5
 copyright: © fault2000 2022
+email: fault2000@naver.com
 
 sass:
     style: compressed
