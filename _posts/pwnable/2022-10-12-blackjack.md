@@ -9,6 +9,8 @@ use_math: true
 author: fault2000
 ---
 
+블랙잭을 플레이할 수 있는 프로그램을 실행할 수 있는 포트만을 준다. 접속해보자.
+
 ```c
 // Programmer: Vladislav Shulman
 // Final Project
