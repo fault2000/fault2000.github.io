@@ -26,7 +26,7 @@
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
 - title: algorithm
   url: category/algorithm.html
-  icon: assets/img/icons/design.svg
+  icon: assets/img/icons/algorithm.svg
   hue: "var(--c-themeHueRed)"
   subnav: #Subnav. See note [2].
       - title: baekjoon #Submenu item title.
@@ -34,9 +34,13 @@
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
 - title: linux
   url: category/linux.html
-  icon: assets/img/icons/design.svg
+  icon: assets/img/icons/linux.svg
   hue: "var(--c-themeHueRed)"
 - title: activity
   url: category/activity.html
-  icon: assets/img/icons/design.svg
+  icon: assets/img/icons/activity.svg
   hue: "var(--c-themeHueRed)"
+  subnav: #Subnav. See note [2].
+      - title: mokkko #Submenu item title.
+        url: category/mokkko.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
