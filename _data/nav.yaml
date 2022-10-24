@@ -6,9 +6,6 @@
       - title: LLVM #Submenu item title.
         url: category/LLVM.html #Submenu item url.
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
-      - title: overthewire #Submenu item title.
-        url: category/overthewire.html #Submenu item url.
-        hue: "var(--c-themeHueOrange)" #Submenu item hue.
       - title: pwnable #Submenu item title.
         url: category/pwnable.html #Submenu item url.
         hue: "var(--c-themeHueOrange)" #Submenu item hue.
@@ -36,6 +33,10 @@
   url: category/linux.html
   icon: assets/img/icons/linux.svg
   hue: "var(--c-themeHueRed)"
+  subnav: #Subnav. See note [2].
+      - title: overthewire #Submenu item title.
+        url: category/overthewire.html #Submenu item url.
+        hue: "var(--c-themeHueOrange)" #Submenu item hue.
 - title: activity
   url: category/activity.html
   icon: assets/img/icons/activity.svg
