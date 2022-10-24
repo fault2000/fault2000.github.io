@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LLVM 외부 함수 호출
-categories: [llvm]
+category: [llvm]
 tags: [llvm, pass, optimization]
 fullview: true
 comments: true

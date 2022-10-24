@@ -1,7 +1,7 @@
 ---
 layout: post
 title: root-me Cracking ELF x86 - 0 protection
-categories: [root-me]
+category: [root-me]
 tags: [root-me, Cracking, CTF]
 fullview: true
 comments: true

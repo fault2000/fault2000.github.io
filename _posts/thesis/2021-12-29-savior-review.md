@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SaViorL, Thwarting Stack-Based Memory Safety Violations by Randomizing Stack Layout 리뷰
-categories: [thesis]
+category: [thesis]
 tags: [thesis, stack-based memory, randomizing]
 fullview: true
 comments: true

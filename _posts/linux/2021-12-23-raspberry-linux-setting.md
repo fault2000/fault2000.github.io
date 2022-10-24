@@ -1,7 +1,7 @@
 ---
 layout: post
 title: raspberry pi os 설치
-categories: [linux]
+category: [linux]
 tags: [setup, raspberryPi, linux]
 fullview: true
 comments: true

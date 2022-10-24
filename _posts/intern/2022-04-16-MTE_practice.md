@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Memory tagging extension, MTE tutorial with docker on window
-categories: [intern]
+category: [intern]
 tags: [mte, arm, memory safety]
 fullview: true
 comments: true

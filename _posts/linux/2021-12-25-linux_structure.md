@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 리눅스 커널 소스 구조
-categories: [linux]
+category: [linux]
 tags: [raspberryPi, linux]
 fullview: true
 comments: true

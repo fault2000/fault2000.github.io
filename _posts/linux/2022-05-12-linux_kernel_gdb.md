@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ARM Linux kernel debugging
-categories: [linux]
+category: [linux]
 tags: [linux, kernel, arm, gdb]
 fullview: true
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Points-to Analysis
-categories: [thesis]
+category: [thesis]
 tags: [thesis, CFG, security]
 fullview: true
 comments: true

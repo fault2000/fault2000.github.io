@@ -1,7 +1,7 @@
 ---
 layout: post
 title: pwnable blackjack
-categories: [pwnable]
+category: [pwnable]
 tags: [pwnable, Toddler's Bottle]
 fullview: true
 comments: true

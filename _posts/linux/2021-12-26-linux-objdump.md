@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 리눅스 objdump 바이너리 유틸리티
-categories: [linux]
+category: [linux]
 tags: [raspberryPi, linux]
 fullview: true
 comments: true

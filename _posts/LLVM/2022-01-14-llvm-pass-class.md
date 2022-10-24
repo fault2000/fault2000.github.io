@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LLVM pass 종류
-categories: [llvm]
+category: [llvm]
 tags: [llvm, pass, optimization, tutorial]
 fullview: true
 comments: true

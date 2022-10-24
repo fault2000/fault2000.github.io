@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MTE의 메모리에 지정된 태그는 어디에 저장되는가
-categories: [intern]
+category: [intern]
 tags: [mte, arm, memory safety]
 fullview: true
 comments: true

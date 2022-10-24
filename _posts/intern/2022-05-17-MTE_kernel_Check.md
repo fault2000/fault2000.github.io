@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MTE kernel assembly
-categories: [intern]
+category: [intern]
 tags: [mte, arm, memory safety]
 fullview: true
 comments: true
