@@ -1,9 +1,9 @@
-title: the Simplex theme
+title: 잡다한 블로그
 logo_img: /assets/img/icons/golasblog_logo.svg
 favicon: /assets/favicon.ico
-description: description
+description: 공부용
 global_tags: jekyll theme simplex golasblog responsive html5
-copyright: © Golasowski 2021
+copyright: © fault2000 2022
 
 sass:
     style: compressed
