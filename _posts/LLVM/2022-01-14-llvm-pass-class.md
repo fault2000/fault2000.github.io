@@ -8,7 +8,8 @@ comments: true
 author: fault2000
 ---
 
-Pass의 사용되는 class의 종류에 대해 정리하는 시간을 가져보았다.<br>
+Pass의 사용되는 class의 종류에 대해 정리하는 시간을 가져보았다.  
+
 이 글은 공식 문서의 내용을 적당히 번역한 내용임을 알린다. **[LLVM 공식문서 링크](https://llvm.org/docs/WritingAnLLVMPass.html)**<br>
 목차는 다음과 같다.
 1. ImmutablePass
