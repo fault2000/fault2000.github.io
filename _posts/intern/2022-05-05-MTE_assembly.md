@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MTE assembly
-category: [intern]
+category: [intern, security]
 tags: [mte, arm, memory safety]
 fullview: true
 comments: true

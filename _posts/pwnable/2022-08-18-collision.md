@@ -1,7 +1,7 @@
 ---
 layout: post
 title: pwnable collision
-category: [pwnable]
+category: [pwnable, security]
 tags: [pwnable, Toddler's Bottle]
 fullview: true
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Digital Watermarks for LLVM Intermediate Representation 리뷰
-category: [thesis]
+category: [thesis, security]
 tags: [thesis, watermark, LLVM]
 fullview: true
 comments: true

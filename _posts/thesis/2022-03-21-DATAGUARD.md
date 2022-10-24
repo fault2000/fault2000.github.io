@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Taming of the Stack:Isolating Stack Data from Memory Errors 리뷰
-category: [thesis]
+category: [thesis, security]
 tags: [thesis, LLVM, stack]
 fullview: true
 comments: true
