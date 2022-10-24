@@ -1,6 +1,6 @@
 - title: Programming #Menu item title.
   url: category/programming.html #Menu item url.
-  icon: assets/img/icons/programming.svg #Menu item icon.
+  icon: assets/img/icons/cybersecurity.svg #Menu item icon.
   hue: "var(--c-themeHueRed)" #Menu item hue - see note [1].
   subnav: #Subnav. See note [2].
       - title: C++ #Submenu item title.
